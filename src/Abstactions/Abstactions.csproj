@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <RootNamespace>CorrelationId.Abstractions</RootNamespace>
+        <AssemblyName>CorrelationId.Abstractions</AssemblyName>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <PackageId>CorrelationId.Abstactions</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Alexey Kurtov</Authors>
+        <PackageTags>correlationid;correlation;tracing;remote call;request;response</PackageTags>
+    </PropertyGroup>
+
+</Project>
